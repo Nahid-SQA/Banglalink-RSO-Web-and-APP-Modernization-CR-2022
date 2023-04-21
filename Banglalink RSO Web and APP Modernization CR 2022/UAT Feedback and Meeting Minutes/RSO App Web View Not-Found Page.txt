@@ -1,0 +1,44 @@
+
+
+FR 1,
+Page Number in SRS- 20, 21
+Point Configuration (Will Work on later)
+
+
+FR 2,
+Page Number in SRS- 23
+RSO Salary & Acknowledgement (This Part work is in-progress)
+
+
+FR 5
+Page Number in SRS- 33
+Notification Setup for Merchandiser (Closed)
+
+
+FR 5
+Page Number in SRS- 46, 47, 48
+Point Creation, Modification, Report (We will work on this at Final UAT)
+
+
+FR 7
+Page Number in SRS- 63, 64, 65
+Point Creation, Modification, Report
+
+
+FR 13
+Page Number in SRS- 78
+Retailer EV PIN Reset (2-step) (Closed)
+
+
+FR 15
+Page Number in SRS- 84
+Retailer Critical Balance Upload, Report (Need to Check in Retailer Management Menu)
+
+FR 27 
+****
+
+
+FR 30
+Page Number in SRS- 104
+Feature Activity, Excel Report (Need to Check in Report Menu)
+

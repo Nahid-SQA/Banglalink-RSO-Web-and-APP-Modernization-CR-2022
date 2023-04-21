@@ -1,0 +1,50 @@
+
+FR 1
+
+Minor:
+1. App- On the RSO Visitted page for each Retailer Checkin Time, Check Out Time Should be added. 
+2. App- On the Retailer Panel SIM Issue no error message is showing.
+3. App- In RSO Salary Acknowledgement after submitting a complain it's showing multiple time for Distributor user.
+4. App- No Remarks field for Complains for DIstributor user.
+5. App- Notification for RSO not working.
+6. (FIXED) Web- Point Creation for Distributor is not working.
+
+
+Major:
+7. App- SIM Delivary Issue.
+8. Web- On the Current Offer Add Page DIstributor must have zone selection feature.
+9. Web- Current offer Add issue for Distributor & Staff Role.
+10. Web- Staf Role Issue.
+11. App- Commission Structure is not showing for RSO.
+12. App- EV Return is not working.
+
+
+Label/ui Change:
+13. App- On the Visit Plan, Visited, Memo the SN Number should be SR Number for RSO, Distributor, Supervisor, .
+14. On Critical Retailers Pop-up Prepaid Sim must not be in Taka, must be in pcs.
+15. App- Top-Up Pin View (X) issue.
+16. App- On every Edit Field Keyboard Next button must not work inappropriately. (Next Button click should be stopped).
+17. App- Reatiler Panel Return View (Scroll) issue.
+18. Critical Retailer, Products count must be only integer number.
+
+
+Test Data issue:
+19. App- On Retailer Panel Dashboard SIM showing 0 but in stock report showing SIM Quantity 3
+12. App- On the KPI Report Achievement data are showing but in Dashboard no data are showing for achievement.
+
+
+Invalid issue:
+11. App- Active RSO view Issue.
+
+
+Observation:
+20. App- In Message Notification JPEG format need to include and uploaded image on web does not show in the app.
+
+<<----->>
+
+FR 5
+
+1. App & Web- Merchandiser Notifications need to check again.
+2. App- In Merchandiser Stock & Issue not working, Price must be hidden.
+3. App- Merchandiser POSM Product Return & Dismantale quantity validation issue.
+4. Web- Merchandiser point creation issue. (Solved)

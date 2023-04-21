@@ -1,0 +1,18 @@
+* Test Users List
+
+DD : 
+RAJJOY01
+121314
+
+RSO:
+RS0149
+
+Merchandiser:
+MER-CHICHI2201
+
+Supervisors:
+RAJJOY01SUP01
+
+ZM:
+Mehedi01 OR
+SYLBRA01_1

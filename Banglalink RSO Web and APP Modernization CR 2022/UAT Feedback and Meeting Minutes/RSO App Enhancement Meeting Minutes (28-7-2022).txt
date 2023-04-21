@@ -1,0 +1,35 @@
+* Field Number Should be Bold
+
+* In Active Rso 2 additional info Add
+
+* page 17, MTD GA and MTD Recharge add
+
+* For Distributor Notificatio there will
+be notification of RSO+Distributor
+
+* Page 24, Need Excel Export.
+
+* FR 23, Live Data with Different Color
+
+* FR 26, Excel Upload system for RSO BirtDate
+RSO Code, BirthDate, Add, Edit UI and Bulk Upload
+
+* FR 31, Recharge 
+
+* FR  
+
+
+* Excel Export Feature for all type of report.
+
+* FR 31, 
+
+* FR 17, In Visit Plan- Retailer Mapping/Sorting should be 
+on Retailer Location/Route. (Distribution house is the Start Point for RSO) (Which Retailer do not have location they should be sorted at last in the list)
+
+* FR 24, Map Point, BTS Location, Distributor Location, RSO Chek in Point , RSO check Out Point, RSO Checkin-Retailer, DD Lat long- Check in Lat Long, 
+RSO Check in Lat long-BTS/RSO Lat long.
+
+* FR 16, Need Technology To detect RSO checkout from Site/BTS. (Need Exploration and Feedback from Maruf Vai)
+
+* FR , The Report Format will be shared by Mairaj vai.
+

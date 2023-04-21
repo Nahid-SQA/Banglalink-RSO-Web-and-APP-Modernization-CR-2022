@@ -1,0 +1,162 @@
+
+
+FR 2
+
+*APP- In RSO Earning for RSO login the *Remarks
+field must be not editable and only readable.
+
+*Web- Acknowledgemnt Status should not be number, need specific words from BL Business team.
+
+* Web- Slary Month, and Acknoledgement Type filter must be AND and OR both.
+* Web- After Going to Show List Page the Loader shows in-appropriately on the top-middle of the page. (Sakib Vai)
+
+
+
+FR 3
+
+* App View- Current Month, Last Month Data logic (Dependency on Web Target Upload)
+
+
+
+
+FR 8
+
+* App- Retailer Info Update Page,
+Error Message Issue (Something Went Erong..)
+* App- Retailer Info Update options Mandatory/Non-Mandatory issue.
+
+* App- New Ownshop Data Issue.
+
+* App- NID, TL, TIN Saved data show issue in app.
+
+
+
+
+FR 10
+Passed
+(FR 10)
+
+*App- RSO type users must only view the *Remarks and can not Edit the *Remarks.
+
+
+
+
+
+FR 11
+
+(ADD Stock Real Time Data from EV, Business Observation).
+
+* App- In Route Page Search Filter Needed.
+
+*App- Need RSO Live Balance as "Your Balance" from EV (Business Observation)
+(Need Discussion )
+
+
+
+FR 12
+Passed
+
+
+
+FR 13
+
+*App- Reatiler Name Required in PIN Reset page.
+
+
+
+FR 17 
+Passed
+
+
+FR 6
+Pending
+
+
+
+FR 20
+*App- On the Retailer Demand Page, The Product Information View Size must be re-sized to large for more appropriate view.
+
+
+ 
+FR 21
+Passed (Need To check and Discuss more)
+
+
+
+FR 4
+
+* Web- Distributor GPS Upload, after uploading the values 2 time for same DIstributor the Old Lat-Long remains Zero (0).
+
+
+FR 22
+
+* RSO Target vs Acheivement Data need to complete the process.
+* Device Registration need more discussion. (Passed)
+* From Complaint menu can not be exit without checkout. (Failed)
+
+
+
+FR 23
+
+* Web- RSO Footsteps View, Need Selected Point Cancel option.
+* Web- RSO Checkin, Chekout point Data.
+
+
+FR 24
+Passed
+
+
+
+
+FR 1
+
+Minor:
+1. App- On the RSO Visitted page for each Retailer Checkin Time, Check Out Time Should be added. 
+2. App- On the Retailer Panel SIM Issue no error message is showing.
+3. App- In RSO Salary Acknowledgement after submitting a complain it's showing multiple time for Distributor user.
+4. App- No Remarks field for Complains for DIstributor user.
+5. App- Notification for RSO not working.
+6. (FIXED) Web- Point Creation for Distributor is not working.
+
+Major:
+7. App- SIM Delivary Issue.
+8. Web- On the Current Offer Add Page DIstributor must have zone selection feature.
+9. Web- Current offer Add issue for Distributor & Staff Role.
+10. Web- Staf Role Issue.
+11. App- Commission Structure is not showing for RSO.
+12. App- EV Return is not working.
+
+
+Label/ui Change:
+13. App- On the Visit Plan, Visited, Memo the SN Number should be SR Number for RSO, Distributor, Supervisor, .
+14. On Critical Retailers Pop-up Prepaid Sim must not be in Taka, must be in pcs.
+15. App- Top-Up Pin View (X) issue.
+16. App- On every Edit Field Keyboard Next button must not work inappropriately. (Next Button click should be stopped).
+17. App- Reatiler Panel Return View (Scroll) issue.
+18. Critical Retailer, Products count must be only integer number.
+
+Test Data issue:
+19. App- On Retailer Panel Dashboard SIM showing 0 but in stock report showing SIM Quantity 3
+12. App- On the KPI Report Achievement data are showing but in Dashboard no data are showing for achievement.
+
+
+Invalid issue:
+11. App- Active RSO view Issue.
+
+Observation:
+20. App- In Message Notification JPEG format need to include and uploaded image on web does not show in the app.
+
+
+FR 5
+1. App & Web- Merchandiser Notifications need to check again.
+2. App- In Merchandiser Stock & Issue not working, Price must be hidden.
+3. App- Merchandiser POSM Product Return & Dismantale quantity validation issue.
+4. Web- Merchandiser point creation issue. (Solved)
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+
+
+
+select * from distributor  d where d.code = ''
+
+select * from retailer r where r.code = ''
+
+select * from rso rs where rs.code = ''
+
+
+-- to get sim serial
+select * from simstatus s 
+where s.DISTRIBUTOR = 59 and s.RETAILER is null
+
+-- to get sc serial
+select * from scstatus s 
+where s.DISTRIBUTOR = 59 and s.RETAILER is null and S.ACTIVATIONDATE is null
+
+-- to get product name by id
+select * from cfdb.tblproduct
+
+
+-- list of retailer stock
+select * from FF_RETAILER_STOCK_ORDER

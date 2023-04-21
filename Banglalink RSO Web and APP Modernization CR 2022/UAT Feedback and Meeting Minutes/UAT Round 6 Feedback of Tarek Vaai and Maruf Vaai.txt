@@ -1,0 +1,47 @@
+
+    
+FR 3.2
+Salary receiving date mismatch from web vs app (Solved)
+Incentive & Commisison upload file required
+Complains Dropdown value coming from Procedure--->should call from Data Table 
+RSO salary -- upload file stuck on 70%.(Solved)
+Repetitive value found in RSO Earning Dropdown -- (Solved)
+App- DD Feedback, Distributor Remarks UI Change.
+Web+App- Year uploaded 2000 on web changes to 1990 year.
+
+
+
+FR 3.23
+Distributor icon should change.(Solved)
+On hover --- "DHKDHK" //name show first.(Solved)    OK
+BTS Icon should change (Tower) (Solved)
+
+
+FR 3.05
+Product type should not be auto selected (Solved)
+dashboard: Product catagory code should be replaced by product name (Solved)
+Product issue page needs to be updated for Marchendiser (Solved)                 OK
+demography validation is not working for POSM issue/dismentalling (Solved)
+Notification is not working. (BO)
+
+
+
+FR 3.25
+Birthday wish is not working (solved)  OK
+
+
+FR. 3.9
+SIM status check needs to show in a popup not in tost (Solved)
+if serial number is wrong proper error message should show.(Solved)
+target vs Achievement dashboard under monitoring seems destorting (solved)
+ZM dashboard --- "Visit Plan"--> Realistic data required ||||| |||||Stock ZM er jonno control hoinai>>> Fail.     OK
+Dashboard commission Cart"  --Dot update for multiple commission offer Image (APP)
+For ZM low performance site to be calculated & shown (BO)
+
+
+FR 3.07 
+For Supervisor & ZM if requested for stock add, module should be inaccessable (Solved)     OK
+Dashboard visit count is not showing rightly (Solved)
+
+***Language (Bangla) needs to be added for the exisiteing field where there is still english***
+*** For ALl User Profile Picture Need to Store In the DB with Feature of Admin View***
